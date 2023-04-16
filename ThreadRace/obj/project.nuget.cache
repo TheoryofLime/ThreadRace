@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlVwL1C9Opg387hzN5kOkoagz44JlwnAaZpxDdJVUuBBHGRco2lxfqL2T09pkQ2i0cB8pIj+AN5mlCkFkOWJDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Storage\\Work\\cit195\\assignment10\\ThreadRace\\ThreadRace\\ThreadRace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
